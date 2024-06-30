@@ -1,0 +1,11 @@
+DESAFIO 5
+
+1-Para iniciar, nageve até  a pasta  api/src  e execute o comando:
+
+`npm install` para installar as dependencias 
+
+2-Execute o comando:
+
+`npm run start`  para iniciar o servidor 
+
+o servidor iniciara e uma mensagem com  a porta sera exibida.
