@@ -6,6 +6,6 @@
 
 2-Execute o comando:
 
-`npm run start`  para iniciar o servidor 
+`npm run dev`  para iniciar o servidor 
 
 o servidor iniciara e uma mensagem com  a porta sera exibida.
